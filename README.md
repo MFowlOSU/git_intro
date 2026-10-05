@@ -1,1 +1,2 @@
-"Matthew Fowler" 
+Matthew Fowler
+fowlmatt@oregonstate.edu
